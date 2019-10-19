@@ -31,6 +31,6 @@ Chạy file `train-model-logistic` nếu muốn tạo model dự đoán sử d�
 - Sau khi đã có model:\
 Nếu muốn sử dụng model SVM để dự đoán thì chạy file `test-model-svm.py`.\
 Nếu muốn sử dụng model Logistic Regression để dự đoán thì chạy file `test-model-logistic.py`.
-- Khi chạy model để dự đoán, mô hình sẽ yêu cầu nhập đường dẫn tới ảnh cần dự đoán.\
+- Khi chạy model để dự đoán, chương trình sẽ yêu cầu nhập đường dẫn tới ảnh cần dự đoán.\
 Ví dụ: `C:\Users\FanKuan\Desktop\13.jpg`
 - Sau khi chạy chương trình, chương trình sẽ trả về bức ảnh chứa loại bánh, tên loại bánh và tên thuật toán đã sử dụng để dự đoán.
